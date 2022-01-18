@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CoderGS2011
+- 👀 I’m interested in python, web development and C++.
+- 🌱 I’m currently learning C++ and python.
+- 📫 You can subscribe to my channel CODER GS - https://www.youtube.com/channel/UCooNmve17hMXSHeJKdIJNtw
